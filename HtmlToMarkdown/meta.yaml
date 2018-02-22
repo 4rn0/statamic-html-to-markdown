@@ -1,0 +1,5 @@
+name: HTML to Markdown
+version: "1.0.0"
+description: CLI command to convert HTML to Markdown.
+developer: 4rn0
+developer_url: https://github.com/4rn0/statamic-html-to-markdown

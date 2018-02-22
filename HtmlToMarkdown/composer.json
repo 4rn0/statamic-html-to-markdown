@@ -1,0 +1,6 @@
+{
+    "name": "4rn0/statamic-html-to-markdown",
+    "require": {
+    	"league/html-to-markdown": "~4.6.2"
+    }
+}
