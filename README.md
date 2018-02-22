@@ -1,5 +1,5 @@
 # statamic-html-to-markdown
-Statamic v2 Addon to minify HTML responses
+Statamic v2 Addon to convert HTML to Markdown
 
 ## Setup
 
